@@ -48,7 +48,7 @@ Esempio:
 LibVLCPlayer.exe /titolo="Player Fabrizio" /fullscreen /file="https://www.w3schools.com/html/mov_bbb.mp4"
 ```
 
-# Download
+### Download
 - Puoi trovare le varie versioni già compilate nella pagine delle <a href="https://github.com/Fabrizio04/LibVLCPlayer/releases/">release</a>
 
 ### Fonti
